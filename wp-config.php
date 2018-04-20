@@ -27,10 +27,10 @@ define('POST_MAX_SIZE', '300MB');
 define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'kirill');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', '589750S');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
